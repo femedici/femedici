@@ -28,4 +28,4 @@ I was the lead analyst of the project, which allowed me to improve my communicat
 </div> 
 <h3 align="left" id="macropower-tech">Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,c#,c,cpp,mysql,php,html,css,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,c,cpp,mysql,php,html,css,ps)](https://skillicons.dev)
