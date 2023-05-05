@@ -1,6 +1,6 @@
-<h1 align="left" id="macropower-title">Sup! I'm Felipe Medici 🖥️☕</h1>
+<h1 align="left" id="macropower-title">Sup! I'm Felipe Medici 🖥️☕</h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=18&pause=1000&color=71D2F7&width=435&lines=currently+working+as+analysis+assistent" alt="Typing SVG" /></a>
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBhMWNkZjQ0NDQyYjIyZWViYmQ3M2M1ZGE5N2NkNDk3NGU1YjM4YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/11D0XkJInM2ssU/giphy.gif">
+<img align="right" src="https://media.tenor.com/_ABH4daXFW8AAAAC/lofi.gif">
 
 <h3 align="left">Analist and Software Engineer</h3>
 
@@ -13,7 +13,7 @@ Some projects I developed and made part of:
 - Brewing Space: Project of a Social Media focused on people who like homebrewed beer. This project also involved production methods for different types of beer,       guides, and software to support production. 
 I was the lead analyst of the project, which allowed me to improve my communication skills, software development skills, documentation skills, and knowledge of         software engineering in practice.
 
-
+- OO Calculator: It's an abstraction of a calculator using c++ and pure object-oriented model. Makes all operations using Digits, Keyboard, Display, Cpu and other classes integrated.
 
 
 <br>
