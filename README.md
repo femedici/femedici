@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTkzOTQ0OTE3Zjk3M2NkNzQ4N2FjMWU2NjM2NjU2M2RlYWI5OWE4MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2SYqgPxMm2kbVe3y02/giphy.gif">
 
-<h3 align="left">Analist and Software Engineer</h3>
+<h3 align="left">Analist and Software Engineer in Trainning</h3>
 
 I'm studing at UTFPR Computer Science. Already finished Technical School at Instituto Federal São Paulo. 
 Made various projects during my graduation, with made my skills increase and develop better coding and analysis mindset.
