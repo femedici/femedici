@@ -26,4 +26,4 @@ Fell free to know more about me and my codes viewing my projects!
 </div> 
 <h3 align="left" id="macropower-tech">Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,c,cpp,java,nodejs,js,mysql,dotnet,github,git,py,html,css,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,cpp,vue,tailwind,js,mysql,mongodb,git,html,css)](https://skillicons.dev)
