@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">Sup! I'm Felipe Medici 🖥️☕</h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=F77C15&background=FFFFFF00&random=false&width=435&lines=First+analyse%2C+them+code" alt="Typing SVG" /></a>
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTkzOTQ0OTE3Zjk3M2NkNzQ4N2FjMWU2NjM2NjU2M2RlYWI5OWE4MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2SYqgPxMm2kbVe3y02/giphy.gif">
+<img align="right" src="https://i.gifer.com/6vIk.mp4">
 
 <h3 align="left">Software Developer and Analist</h3>
 
@@ -34,8 +34,8 @@ Fell free to know more about me and my codes viewing my projects!
 <h2 align="left" id="macropower-tech">My Git Stats</h2>
     
     
-[![femedici's GitHub stats](https://github-readme-stats.vercel.app/api?username=femedici&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=femedici&theme=great-gatsby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![femedici's GitHub stats](https://github-readme-stats.vercel.app/api?username=femedici&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=femedici&theme=gruvbox_light&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div> 
 
