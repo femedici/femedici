@@ -1,15 +1,29 @@
-<h1 align="left" id="macropower-title">Sup! I'm Felipe Medici 🖥️☕</h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=18&pause=1000&color=4EF7B4&width=435&lines=welcome+to+my+git!" alt="Typing SVG" /></a>
+<h1 align="left" id="macropower-title">Sup! I'm Felipe Medici 🖥️☕</h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=F77C15&background=FFFFFF00&random=false&width=435&lines=First+analyse%2C+them+code" alt="Typing SVG" /></a>
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTkzOTQ0OTE3Zjk3M2NkNzQ4N2FjMWU2NjM2NjU2M2RlYWI5OWE4MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2SYqgPxMm2kbVe3y02/giphy.gif">
 
-<h3 align="left">Software Engineer and Analist</h3>
+<h3 align="left">Software Developer and Analist</h3>
 
-I'm taking a degree in Computer Science at UTFPR (Federal Technical College from Paraná - Brazil). I have already completed my Technical School education at IFSP (Federal Institute of São Paulo).
+I develop Softwares, Web Applications, Data Analysis and Strutures since 2018. I'm great at managing projects, tasks and problemns, I always like to take a step back and analyse the whole problem, and them making a debug process step by step.  
+
+The main area I'm passionate about in IT is Software Engineering and all types of analysing methods that can help in coding as a whole.
+
+<h3 align="left" id="macropower-tech">Languages and Tools</h3>
+
+Here are some of my main languages I have experience with:  
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,cpp,java,mysql,mongodb,vue,tailwind,js,git,html,css)](https://skillicons.dev)
+
 
 <h3 align="left">A little about me</h3>
 
+Currently I'm taking a degree in Computer Science at UTFPR (Federal IT College from Paraná - Brazil). Also I have already completed Technical IT education at IFSP (Federal Institute of São Paulo).
+
 I'm from a small town in the interior of São Paulo State called São João da Boa Vista. I grew up there until I turned 18, when I gained admission to UTFPR for my college studies. I have always been passionate about computers, gaming, and problem-solving as a whole. 
-When I began studying programming and coding, I immediately developed a strong interest in it. From that point on, I decided to make technology my main focus in life.
+When I began studying programming and coding, I immediately developed a strong interest in it. From that point on, I decided to make coding my main goal in life.
+
+<br>
+<br>
 
 Fell free to know more about me and my codes viewing my projects! 
 (Some are old codes that I did when I started studying. They are here just to remind me of past projects.)
@@ -20,10 +34,8 @@ Fell free to know more about me and my codes viewing my projects!
 <h2 align="left" id="macropower-tech">My Git Stats</h2>
     
     
-[![femedici's GitHub stats](https://github-readme-stats.vercel.app/api?username=femedici&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=femedici&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![femedici's GitHub stats](https://github-readme-stats.vercel.app/api?username=femedici&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=femedici&theme=great-gatsby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div> 
-<h3 align="left" id="macropower-tech">Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,cpp,vue,tailwind,js,mysql,mongodb,git,html,css)](https://skillicons.dev)
