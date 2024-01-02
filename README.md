@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">Sup! I'm Felipe Medici 🖥️☕</h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=F77C15&background=FFFFFF00&random=false&width=435&lines=First+analyse%2C+them+code" alt="Typing SVG" /></a>
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9oaXFwaXZ4ZGhrbHIxbjJmejZyZXg4MjUwbXZubTYzanV5emlneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif">
+<img align="right" src="https://i.pinimg.com/564x/10/bd/06/10bd067f03e476e8dfe8596645a79659.jpg">
 
 <h3 align="left">Software Developer and Analist</h3>
 
