@@ -8,13 +8,6 @@ I develop Softwares, Web Applications, Data Analysis and Strutures since 2018. I
 
 The main area I'm passionate about in IT is Software Engineering and all types of analysing methods that can help in coding as a whole.
 
-<h3 align="left" id="macropower-tech">Languages and Tools</h3>
-
-Here are some of my main languages I have experience with:  
-
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,cpp,java,mysql,mongodb,vue,tailwind,js,git,html,css)](https://skillicons.dev)
-
-
 <h3 align="left">A little about me</h3>
 
 Currently I'm taking a degree in Computer Science at UTFPR (Federal IT College from Paraná - Brazil). Also I have already completed Technical IT education at IFSP (Federal Institute of São Paulo).
@@ -22,9 +15,13 @@ Currently I'm taking a degree in Computer Science at UTFPR (Federal IT College f
 I'm from a small town in the interior of São Paulo State called São João da Boa Vista. I grew up there until I turned 18, when I gained admission to UTFPR for my college studies. I have always been passionate about computers, gaming, and problem-solving as a whole. 
 When I began studying programming and coding, I immediately developed a strong interest in it. From that point on, I decided to make coding my main goal in life.
 
-<br>
-<br>
+<h3 align="left" id="macropower-tech">Languages and Tools</h3>
 
+Here are some of my main languages I have experience with:  
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,cpp,java,mysql,mongodb,vue,tailwind,js,git,html,css)](https://skillicons.dev)
+
+<br>
 Fell free to know more about me and my codes viewing my projects! 
 (Some are old codes that I did when I started studying. They are here just to remind me of past projects.)
 
