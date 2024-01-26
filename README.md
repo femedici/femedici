@@ -30,5 +30,5 @@ Fell free to know more about me and my codes viewing my projects!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=femedici&layout=compact&theme=slateorange" alt="Top Languages" />
 </div>
 
-![](https://komarev.com/ghpvc/?username=femedicie&color=orange)
+![](https://komarev.com/ghpvc/?username=femedici&color=orange)
 
