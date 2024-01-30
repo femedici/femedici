@@ -14,7 +14,7 @@ When I began studying programming and coding, I immediately developed a strong i
 
 Here are some of my main languages I have experience with:  
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,cpp,java,mysql,mongodb,vue,tailwind,js,git,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,cpp,nodejs,java,mysql,mongodb,js,git,vue,tailwind,)](https://skillicons.dev)
 
 <br>
 Fell free to know more about me and my codes viewing my projects! 
