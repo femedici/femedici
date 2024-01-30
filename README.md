@@ -2,7 +2,7 @@
 
 <h3>Software Developer and Analist</h3>
 
-I have been actively engaged in software development, web applications and data analysis since 2018. Proficient in project management and adept at troubleshooting, I approach challenges by taking a comprehensive view before systematically debugging issues step by step. My primary passion within IT lies in Software Engineering and employing various analytical methods to enhance coding practices as a whole.
+I have been actively engaged in software development, web applications and data analysis since 2018. Proficient in project management and adept at troubleshooting, I approach challenges by taking a comprehensive view before systematically debugging issues step by step. My passion within IT lies in Software Engineering and employing various estrutures and methods to enhance coding practices as a whole.
 
 <h3 >A little about me</h3>
 
