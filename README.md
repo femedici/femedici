@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">Sup! I'm Felipe Medici 🖥️☕</h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=F77C15&background=FFFFFF00&random=false&width=435&lines=First+analyse%2C+them+code" alt="Typing SVG" /></a>
 
-<h3>Back-end Junior Developer</h3>
+<h3>Back-end Developer</h3>
 
 I have been actively engaged in software development, web applications and data analysis since 2018. Proficient in project management and adept at troubleshooting, I approach challenges by taking a comprehensive view before systematically debugging issues step by step. My passion within IT lies in Software Engineering and employing various estrutures and methods to enhance coding practices as a whole.
 
