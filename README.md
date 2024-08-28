@@ -4,8 +4,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=F77C15&background=FFFFFF00&random=false&width=435&lines=First+analyse%2C+them+code" alt="Typing SVG" />
   </a>
-  <img src="https://media1.tenor.com/m/xMmwPOqFFSAAAAAC/aesthetic-typing.gif" style="margin-left: 10px; width: 100px; height: auto;" />
 </div>
+<img src="https://media1.tenor.com/m/xMmwPOqFFSAAAAAC/aesthetic-typing.gif" style="margin-left: 10px; width: 100px; height: auto;" />
 
 <h3>Full Stack Developer</h3>
 
