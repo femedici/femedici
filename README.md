@@ -7,9 +7,9 @@
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://i.pinimg.com/originals/55/2b/9f/552b9f7bc0c547d179ef4cb1a70ed519.gif" style="width: 300px; height: auto;" />
-  <img src="https://i.pinimg.com/originals/c7/16/9b/c7169b87b277a02f4963c5003e4e699e.gif" style="width: 280px; height: auto;" />
-  <img src="https://i.pinimg.com/originals/d3/ca/2b/d3ca2b6b5b0d90c4b98195b205defa29.gif" style="width: 280px; height: auto;" />
+  <img src="https://i.pinimg.com/originals/55/2b/9f/552b9f7bc0c547d179ef4cb1a70ed519.gif" style="width: 260px; height: 170px;" />
+  <img src="https://i.pinimg.com/originals/c7/16/9b/c7169b87b277a02f4963c5003e4e699e.gif" style="width: 260px; height: 170px;" />
+  <img src="https://i.pinimg.com/originals/d3/ca/2b/d3ca2b6b5b0d90c4b98195b205defa29.gif" style="width: 260px; height: 170px;" />
 </div>
 
 
