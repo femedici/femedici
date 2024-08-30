@@ -5,7 +5,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=F77C15&background=FFFFFF00&random=false&width=435&lines=First+analyse%2C+them+code" alt="Typing SVG" />
   </a>
 </div>
-<img src="https://media1.tenor.com/m/xMmwPOqFFSAAAAAC/aesthetic-typing.gif" style="margin-left: 10px; width: 100px; height: auto;" />
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://i.pinimg.com/originals/55/2b/9f/552b9f7bc0c547d179ef4cb1a70ed519.gif" style="width: 330px; height: auto;" />
+  <img src="https://i.pinimg.com/originals/c7/16/9b/c7169b87b277a02f4963c5003e4e699e.gif" style="width: 330px; height: auto;" />
+  <img src="https://i.pinimg.com/originals/d3/ca/2b/d3ca2b6b5b0d90c4b98195b205defa29.gif" style="width: 330px; height: auto;" />
+</div>
+
 
 <h3>Full Stack Developer</h3>
 
