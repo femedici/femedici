@@ -1,10 +1,5 @@
 <h1 align="left" id="macropower-title">Sup! I'm Felipe Medici 🖥️☕</h1>
 
-<div style="display: flex; align-items: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=F77C15&background=FFFFFF00&random=false&width=435&lines=First+analyse%2C+them+code" alt="Typing SVG" />
-  </a>
-</div>
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://i.pinimg.com/originals/55/2b/9f/552b9f7bc0c547d179ef4cb1a70ed519.gif" style="width: 275px; height: 170px;" />
@@ -12,6 +7,11 @@
   <img src="https://i.pinimg.com/originals/d3/ca/2b/d3ca2b6b5b0d90c4b98195b205defa29.gif" style="width: 275px; height: 170px;" />
 </div>
 
+<div style="display: flex; align-items: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=F77C15&background=FFFFFF00&random=false&width=435&lines=First+analyse%2C+them+code" alt="Typing SVG" />
+  </a>
+</div>
 
 <h3>Full Stack Developer</h3>
 
