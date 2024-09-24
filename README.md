@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">Felipe Medici 愛</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=1000&color=C3C6C8&width=450&height=47&lines=analyse+them+code" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=1000&color=C3C6C8&width=450&height=47&lines=<+analyse+them+code+.+.+.+/+>" alt="Typing SVG" /></a>
 
 Full Stack Developer
 
@@ -15,8 +15,6 @@ Here are some of my main languages I have experience with:
 
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nodejs,java,mysql,mongodb,git,vue,tailwind,)
 
-<a href="https://www.linkedin.com/in/femedici/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="femedici.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%230077B5.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 <div> 
 <h2  id="macropower-tech">My Git Stats</h2>
@@ -27,3 +25,4 @@ Here are some of my main languages I have experience with:
 </div>
 
 ![](https://komarev.com/ghpvc/?username=femedici&color=lightgray)
+<a href="https://www.linkedin.com/in/femedici/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
