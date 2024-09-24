@@ -9,7 +9,7 @@ I have been actively engaged in software development, web applications and data 
 Currently I'm taking a degree in Computer Science at UTFPR (Federal IT College from Paraná - Brazil).
 Also I have already completed Technical IT education at IFSP (Federal Institute of São Paulo).
 
-<h3  id="macropower-tech">Languages and Tools</h3>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Here are some of my main languages I have experience with:
 
