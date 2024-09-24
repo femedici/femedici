@@ -13,7 +13,7 @@ Also I have already completed Technical IT education at IFSP (Federal Institute 
 
 Here are some of my main languages I have experience with:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nodejs,java,mysql,mongodb,git,vue,tailwind,)]
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nodejs,java,mysql,mongodb,git,vue,tailwind,)
 
 <a href="https://www.linkedin.com/in/femedici/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="femedici.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%230077B5.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
