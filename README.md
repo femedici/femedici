@@ -13,7 +13,7 @@ Also I have already completed Technical IT education at IFSP (Federal Institute 
 
 Here are some of my main languages I have experience with:
 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nodejs,java,mysql,mongodb,git,vue,tailwind,)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nodejs,java,mysql,mongodb,git)
 
 
 <div> 
