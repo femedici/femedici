@@ -1,8 +1,11 @@
-<h1 align="left" id="macropower-title">Felipe Medici 愛</h1>
+<h1 align="left" id="macropower-title">Felipe Medici</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=1000&color=C3C6C8&width=450&height=47&lines=<+analyse+them+code+.+.+.+/+>" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=1000&color=C3C6C8&width=450&height=47&lines={+analyse+them+code+.+.+.++}" alt="Typing SVG" /></a>
 
 Full Stack Developer
+
+- 🔖 Focusing in Front and Back Web Development 
+- 📚 Studing Mobile development
 
 I have been actively engaged in software development, web applications and data analysis since 2018. My passion in IT lies in abstracting daily struggles and processes, transforming them into easy-to-use tools with my development skills.
 
@@ -13,8 +16,13 @@ Also I have already completed Technical IT education at IFSP (Federal Institute 
 
 Here are some of my main languages I have experience with:
 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nodejs,java,mysql,mongodb,git)
+- Front End technologies
 
+![My Skills](https://skillicons.dev/icons?i=vue,react,js)
+
+- Back End technologies
+
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,java,mysql,mongodb)
 
 <div> 
 <h2  id="macropower-tech">My Git Stats</h2>
