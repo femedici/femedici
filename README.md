@@ -6,6 +6,7 @@ Full Stack Developer
 
 - 🔖 Focusing in Front and Back Web Development 
 - 📓 Studing Mobile development React Native
+- 📓 Studing Data Treatment with .NET and SQL
 
 I have been actively engaged in software development, web applications and data analysis since 2018. My passion in IT lies in abstracting daily struggles and processes, transforming them into easy-to-use tools with my development skills.
 
