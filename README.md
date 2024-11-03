@@ -17,13 +17,13 @@ Also I have already completed Technical IT education at IFSP (Federal Institute 
 
 Here are some of my main languages I have experience with:
 
-- Front End technologies
-
-![My Skills](https://skillicons.dev/icons?i=vue,react,js)
-
 - Back End technologies
 
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,java,mysql,mongodb)
+
+- Front End technologies
+
+![My Skills](https://skillicons.dev/icons?i=vue,react,js)
 
 <div> 
 <h2  id="macropower-tech">My Git Stats</h2>
