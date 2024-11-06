@@ -8,8 +8,6 @@ Full Stack Developer
 - 📓 Studing Mobile development React Native
 - 📓 Studing Data Treatment with .NET and SQL
 
-teste de data
-
 I have been actively engaged in software development, web applications and data analysis since 2018. My passion in IT lies in abstracting daily struggles and processes, transforming them into easy-to-use tools with my development skills.
 
 Currently I'm taking a degree in Computer Science at UTFPR (Federal IT College from Paraná - Brazil).
