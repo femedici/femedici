@@ -37,5 +37,6 @@ Here are some of my main languages I have experience with:
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=femedici&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=femedici&layout=compact&theme=dark" alt="Top Languages" />
 </div>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=femedici&color=lightgray)
