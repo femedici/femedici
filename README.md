@@ -1,26 +1,31 @@
 <h1 align="left" id="macropower-title">Felipe Medici</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=1000&color=C3C6C8&width=450&height=47&lines={+analyse+them+code+.+.+.++}" alt="Typing SVG" /></a>
+`Full Stack Junior Developer`
 
-Full Stack Developer
+- 💻 Currently in Back-end and Data Treatment Development 
+- 📚 Master degreeing in Software Engineering 
 
-- 💻 Currently in Front and Back Web Development 
-- 💾 Studing Data Treatment with .NET and SQL
-
-I have been actively engaged in software development, web applications and data analysis since 2018. My passion in IT lies in abstracting daily struggles and processes, transforming them into easy-to-use tools with my development skills.
+I have been actively engaged in software development, web applications and data analysis since 2018, being passioned in solving problems!
 
 Currently I'm taking a degree in Computer Science at UTFPR (Federal IT College from Paraná - Brazil).
 Also I have already completed Technical IT education at IFSP (Federal Institute of São Paulo).
+
+🎓 Academics:
+- College in Computer Science at UTFPR (Federal IT College from Paraná - Brazil).
+- Technical IT High School at IFSP (Federal Institute of São Paulo).
+  
+Check more in my Linkedin: <a href="https://www.linkedin.com/in/femedici/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Here are some of my main languages I have experience with:
 
-- Back End technologies
+- **Back End technologies**
 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,java,mysql,mongodb)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,java,mysql)
 
-- Front End technologies
+- **Front End technologies**
 
 ![My Skills](https://skillicons.dev/icons?i=vue,react,js)
 
@@ -33,4 +38,3 @@ Here are some of my main languages I have experience with:
 </div>
 
 ![](https://komarev.com/ghpvc/?username=femedici&color=lightgray)
-<a href="https://www.linkedin.com/in/femedici/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
