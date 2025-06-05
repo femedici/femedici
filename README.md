@@ -23,7 +23,7 @@ Here are some of my main languages I have experience with:
 
 - **Front End technologies**
 
-![My Skills](https://skillicons.dev/icons?i=vue,react,js)
+![My Skills](https://skillicons.dev/icons?i=react,ts,js,vue)
 
 <div> 
 <h2  id="macropower-tech">My Git Stats</h2>
