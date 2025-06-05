@@ -4,13 +4,8 @@
 
 `Full Stack Junior Developer`
 
-- 💻 Currently in Back-end and Data Treatment Development 
+- 💻 Currently Front-End Development
 - 📚 Master degreeing in Software Engineering 
-
-I have been actively engaged in software development, web applications and data analysis since 2018, being passioned in solving problems!
-
-Currently I'm taking a degree in Computer Science at UTFPR (Federal IT College from Paraná - Brazil).
-Also I have already completed Technical IT education at IFSP (Federal Institute of São Paulo).
 
 🎓 Academics:
 - College in Computer Science at UTFPR (Federal IT College from Paraná - Brazil).
