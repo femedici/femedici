@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=1000&color=C3C6C8&width=450&height=47&lines={+analyse+them+code+.+.+.++}" alt="Typing SVG" /></a>
 
-`Full Stack Junior Developer`
+`Full Stack Mid-Level Developer`
 
 - 💻 Currently Front-End Development
 - 📚 Master degreeing in Software Engineering 
