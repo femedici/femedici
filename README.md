@@ -1,7 +1,5 @@
 <h1 align="left" id="macropower-title">Felipe Medici</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=0DF702&width=435&lines=%3CBox%3EAnalyse+them+code...%3C%2FBox%3E)](https://git.io/typing-svg)
-
 `Full Stack Mid-Level Developer`
 
 - 💻 Currently Full-stack Development
